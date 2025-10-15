@@ -5,7 +5,7 @@
 # 👋 Olá, eu sou Alexandro/Alex/Alê!
 
 <p align="left">
-  Sou um(a) <strong>Desenvolvedor Frontend</strong> de Salvador/BA, apaixonado(a) por transformar ideias em realidade através do código.
+  Sou um <strong>Desenvolvedor Frontend</strong> de Salvador/BA, apaixonado(a) por transformar ideias em realidade através do código.
 </p>
 
 ---
