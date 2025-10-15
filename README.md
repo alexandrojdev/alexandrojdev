@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://[URL_DA_SUA_IMAGEM_DE_BANNER]" alt="Banner do Perfil">
+  <img src="https://github.com/user-attachments/assets/1c646d7c-34b1-4ce8-b68c-e2dbb6e11ddc" alt="Profile LinkedIn Banner">
 </p>
 
 # 👋 Olá, eu sou Alexandro/Alex/Alê!
